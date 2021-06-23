@@ -5,3 +5,4 @@ ct-app-1:
   deploy: true
   multitenancy: "true" multitenancy: "true"
  multitenancy: "true"
+ multitenancy: "true"
