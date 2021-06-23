@@ -4,3 +4,4 @@ ct-app-1:
   replicaCount: 2
   deploy: true
   multitenancy: "true" multitenancy: "true"
+ multitenancy: "true"
